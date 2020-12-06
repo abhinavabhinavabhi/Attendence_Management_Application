@@ -1,0 +1,7 @@
+{
+  "name": "AttendanceManagement",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
